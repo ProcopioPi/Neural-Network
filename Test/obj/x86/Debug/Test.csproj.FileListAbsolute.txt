@@ -1,0 +1,34 @@
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\bin\Debug\Test.exe
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\bin\Debug\Test.pdb
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\bin\Debug\BackPropagation.dll
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\bin\Debug\BackPropagation.pdb
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.exe
+C:\Users\Omar\Desktop\HERE\NEURAL\Test\obj\x86\Debug\Test.pdb
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.pdb
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.Form1.resources
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.Properties.Resources.resources
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\Test.exe
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\Test.pdb
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\BackPropagation.dll
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\Functions.exe
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\Functions.pdb
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\bin\Debug\BackPropagation.pdb
+H:\SEMESTRE\DEEP LEARNING\NEURAL\Test\obj\x86\Debug\Test.exe
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.exe
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.pdb
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\Test.exe
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\Test.pdb
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\BackPropagation.dll
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\Functions.exe
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\Functions.pdb
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\bin\Debug\BackPropagation.pdb
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.Form1.resources
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.Properties.Resources.resources
+H:\SEMESTRE\DEEP LEARNING\NN\NEURAL\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache

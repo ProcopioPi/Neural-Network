@@ -1,0 +1,38 @@
+I:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+I:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+I:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+I:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+D:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+D:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+D:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+D:\Procopio\MAESTRÍA\Procesado de imagen\MIX\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\Usuario\Desktop\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+C:\Users\Usuario\Desktop\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\Usuario\Desktop\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+C:\Users\Usuario\Desktop\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+C:\Users\Usuario\Desktop\up\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+C:\Users\Usuario\Desktop\up\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+C:\Users\Usuario\Desktop\up\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+C:\Users\Usuario\Desktop\up\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+D:\SHARING\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+D:\SHARING\ProcessMeFINAL\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+D:\SHARING\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+D:\SHARING\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+D:\SHARING\ProcessMeFINAL\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+N:\SRC\BackPropagation\bin\Debug\BackPropagation.dll
+N:\SRC\BackPropagation\bin\Debug\BackPropagation.pdb
+N:\SRC\BackPropagation\obj\Debug\BackPropagation.dll
+N:\SRC\BackPropagation\obj\Debug\BackPropagation.pdb
+G:\SRC\SMART CHROMA\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+G:\SRC\SMART CHROMA\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+G:\SRC\SMART CHROMA\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+G:\SRC\SMART CHROMA\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+F:\SRC\SMART CHROMA\ProcessMe\BackPropagation\bin\Debug\BackPropagation.dll
+F:\SRC\SMART CHROMA\ProcessMe\BackPropagation\bin\Debug\BackPropagation.pdb
+F:\SRC\SMART CHROMA\ProcessMe\BackPropagation\obj\Debug\BackPropagation.csprojResolveAssemblyReference.cache
+F:\SRC\SMART CHROMA\ProcessMe\BackPropagation\obj\Debug\BackPropagation.dll
+F:\SRC\SMART CHROMA\ProcessMe\BackPropagation\obj\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.002\NEURAL\bin\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.002\NEURAL\bin\Debug\BackPropagation.pdb
+G:\SmartChroma\ASSIST\V 0.002\NEURAL\obj\Debug\BackPropagation.dll
+G:\SmartChroma\ASSIST\V 0.002\NEURAL\obj\Debug\BackPropagation.pdb
